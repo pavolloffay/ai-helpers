@@ -183,6 +183,12 @@
       "source": "./plugins/code-review",
       "description": "Automated code quality review with language-aware analysis for pre-commit verification",
       "version": "0.0.1"
+    },
+    {
+      "name": "openshift-tls-profile",
+      "source": "./plugins/openshift-tls-profile",
+      "description": "Implementation requirements and details for OpenShift TLS security profiles",
+      "version": "0.0.1"
     }
   ]
 }
